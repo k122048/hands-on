@@ -7,6 +7,11 @@ public class Animal {
 		
 	}
 	
+	public void spoken()
+	{
+		
+	}
+	
 	public int getCoating()
 	{
 		return coating;
